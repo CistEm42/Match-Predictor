@@ -1,0 +1,41 @@
+============================================================
+FOOTBALL DATA VALIDATION REPORT
+============================================================
+Generated: 2026-06-09 01:46:46.842204
+
+Missing Columns: 0
+Duplicate Rows: 0
+Duplicate Matches: 0
+Invalid Dates: 0
+Same Team Fixtures: 0
+Invalid Results: 0
+Result Inconsistencies: 0
+
+NEGATIVE VALUE CHECKS
+FTHG: 0
+FTAG: 0
+HS: 0
+AS: 0
+HST: 0
+AST: 0
+HC: 0
+AC: 0
+HF: 0
+AF: 0
+HY: 0
+AY: 0
+HR: 0
+AR: 0
+
+MISSING VALUES
+
+TEAM SUMMARY
+Total Teams: 25
+
+DATASET SUMMARY
+Rows: 1520
+Columns: 89
+
+============================================================
+VALIDATION STATUS: PASSED
+============================================================
